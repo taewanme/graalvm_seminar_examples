@@ -16,6 +16,9 @@
 - [./examples/e01](./examples/e06): Spring & R 연동
 - [./examples/e01](./examples/e07): JavaScript, Java, R 연동
 
-## 세미나 동영상은 다음에서 보실 수 있습니다.
+## 세미나 동영상
+
+세미나 동영상은 다음 URL에서 보실 수 있습니다.
+- https://www.facebook.com/OracleKorea/videos/899585790388647/UzpfSTEwMDAxNTI2OTgwNDYyODpWSzo2MDc3NTY3NDk2MzgyNDg/
 
 ![](./images/seminar01.jpg )

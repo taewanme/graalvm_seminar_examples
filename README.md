@@ -15,3 +15,7 @@
 - [./examples/e01](./examples/e05): micronaut의 graamvm native image 지원
 - [./examples/e01](./examples/e06): Spring & R 연동
 - [./examples/e01](./examples/e07): JavaScript, Java, R 연동
+
+## 세미나 동영상은 다음에서 보실 수 있습니다.
+
+![](./images/seminar01.jpg )

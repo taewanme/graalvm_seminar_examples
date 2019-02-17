@@ -19,6 +19,7 @@
 ## 세미나 동영상
 
 세미나 동영상은 다음 URL에서 보실 수 있습니다.
-- https://www.facebook.com/OracleKorea/videos/899585790388647/UzpfSTEwMDAxNTI2OTgwNDYyODpWSzo2MDc3NTY3NDk2MzgyNDg/
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOracleKorea%2Fvideos%2F899585790388647%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ![](./images/seminar01.jpg )
